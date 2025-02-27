@@ -1,7 +1,7 @@
 {
   "name": "portfolio-akhil",
   "version": "0.1.0",
-  "homepage": "http://akhilkrishnanns.github.io",
+  "homepage": "https://akhilkrishnanns.github.io",
   "private": true,
   "dependencies": {
     "@heroicons/react": "^2.2.0",
